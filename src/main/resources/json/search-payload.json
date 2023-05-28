@@ -1,0 +1,30 @@
+{
+  "dataOption":"all",
+  "searchCriteriaList":[
+    {
+      "filterKey":"departmentName",
+      "operation":"eq",
+      "value":"MARKETING"
+    },
+    {
+      "filterKey":"salary",
+      "operation":"lt",
+      "value":2957
+    },
+    {
+      "filterKey":"lastName",
+      "operation":"ne",
+      "value":"Stella"
+    },
+    {
+      "filterKey":"commission",
+      "operation":"gt",
+      "value":0
+    },
+    {
+      "filterKey":"employeeId",
+      "operation":"eq",
+      "value":64989
+    }
+  ]
+}

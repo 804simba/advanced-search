@@ -1,0 +1,198 @@
+[
+  {
+    "employeeId": 68319,
+    "firstName": "Kayling",
+    "lastName": "Blake",
+    "jobTitle": "President",
+    "managerId": null,
+    "hireDate": "1991-11-18",
+    "salary": 6000.0,
+    "commission": null,
+    "department": {
+      "departmentId": 1001,
+      "departmentName": "FINANCE"
+    }
+  },
+  {
+    "employeeId": 66928,
+    "firstName": "Blaze",
+    "lastName": "Jason",
+    "jobTitle": "Manager",
+    "managerId": 68319,
+    "hireDate": "1991-05-01",
+    "salary": 2750.0,
+    "commission": null,
+    "department": {
+      "departmentId": 3001,
+      "departmentName": "MARKETING"
+    }
+  },
+  {
+    "employeeId": 67832,
+    "firstName": "Dane",
+    "lastName": "Claire",
+    "jobTitle": "Manager",
+    "managerId": 68319,
+    "hireDate": "1991-06-09",
+    "salary": 2550.0,
+    "commission": null,
+    "department": {
+      "departmentId": 1001,
+      "departmentName": "FINANCE"
+    }
+  },
+  {
+    "employeeId": 65646,
+    "firstName": "Cortez",
+    "lastName": "Jonas",
+    "jobTitle": "MANAGER",
+    "managerId": 68319,
+    "hireDate": "1991-04-02 ",
+    "salary": 2957.0,
+    "commission": null,
+    "department": {
+      "departmentId": 2001,
+      "departmentName": "AUDIT"
+    }
+  },
+  {
+    "employeeId": 67858,
+    "firstName": "Johannsen",
+    "lastName": "Scarlet",
+    "jobTitle": "Analyst",
+    "managerId": 65646,
+    "hireDate": "1997-04-19",
+    "salary": 3100.0,
+    "commission": null,
+    "department": {
+      "departmentId": 2001,
+      "departmentName": "AUDIT"
+    }
+  },
+  {
+    "employeeId": 69062,
+    "firstName": "Cortez",
+    "lastName": "Frank",
+    "jobTitle": "Analyst",
+    "managerId": 65646,
+    "hireDate": "1991-12-03",
+    "salary": 3100.0,
+    "commission": null,
+    "department": {
+      "departmentId": 2001,
+      "departmentName": "AUDIT"
+    }
+  },
+  {
+    "employeeId": 63679,
+    "firstName": "Tom",
+    "lastName": "Sandrine",
+    "jobTitle": "Clerk",
+    "managerId": 69062,
+    "hireDate": "1990-12-18",
+    "salary": 900.0,
+    "commission": null,
+    "department": {
+      "departmentId": 2001,
+      "departmentName": "AUDIT"
+    }
+  },
+  {
+    "employeeId": 64989,
+    "firstName": "James",
+    "lastName": "Adelyn",
+    "jobTitle": "Salesman",
+    "managerId": 66928,
+    "hireDate": "1991-02-20",
+    "salary": 1700.0,
+    "commission": 400.0,
+    "department": {
+      "departmentId": 3001,
+      "departmentName": "MARKETING"
+    }
+  },
+  {
+    "employeeId": 65271,
+    "firstName": "Wade",
+    "lastName": "Bryan",
+    "jobTitle": "Salesman",
+    "managerId": 66928,
+    "hireDate": "1991-02-22",
+    "salary": 1350.0,
+    "commission": 600.0,
+    "department": {
+      "departmentId": 3001,
+      "departmentName": "MARKETING"
+    }
+  },
+  {
+    "employeeId": 66564,
+    "firstName": "Stella",
+    "lastName": "Madden",
+    "jobTitle": "Salesman",
+    "managerId": 66928,
+    "hireDate": "1991-09-28",
+    "salary": 1350.0,
+    "commission": 1500.0,
+    "department": {
+      "departmentId": 3001,
+      "departmentName": "MARKETING"
+    }
+  },
+  {
+    "employeeId": 68454,
+    "firstName": "Lian",
+    "lastName": "Tucker",
+    "jobTitle": "Salesman",
+    "managerId": 66928,
+    "hireDate": "1991-09-08",
+    "salary": 1600.0,
+    "commission": 0.0,
+    "department": {
+      "departmentId": 3001,
+      "departmentName": "MARKETING"
+    }
+  },
+  {
+    "employeeId": 68736,
+    "firstName": "Cruz",
+    "lastName": "Andres",
+    "jobTitle": "Clerk",
+    "managerId": 67858,
+    "hireDate": "1997-05-23",
+    "salary": 1200.0,
+    "commission": null,
+    "department": {
+      "departmentId": 2001,
+      "departmentName": "AUDIT"
+    }
+  },
+  {
+    "employeeId": 69000,
+    "firstName": "Dean",
+    "lastName": "Julius",
+    "jobTitle": "Clerk",
+    "managerId": 66928,
+    "hireDate": "1991-12-03",
+    "salary": 1050.0,
+    "commission": null,
+    "department": {
+      "departmentId": 3001,
+      "departmentName": "MARKETING"
+    }
+  },
+  {
+    "employeeId": 69324,
+    "firstName": "Line",
+    "lastName": "Mark",
+    "jobTitle": "Clerk",
+    "managerId": 67832,
+    "hireDate": "1992-01-23",
+    "salary": 1400.0,
+    "commission": null,
+    "department": {
+      "departmentId": 1001,
+      "departmentName": "FINANCE"
+    }
+  }
+]
